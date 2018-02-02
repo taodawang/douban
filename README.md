@@ -181,17 +181,4 @@ For detailed explanation, checkout the [Douban Api V2](https://developers.douban
     └── logo.png
 ```
 
-## Change log
-
-- Aug 24, 2017:
-  - Merged PR #19
-  - Remove dist/, use tschaub/gh-pages
-- Aug 11, 2017:
-  - Add dir /screenshot.
-  - Update README fix screenshot
-- June 24, 2017:
-  - Update vue-scroll-behavior fix scroll behavior
-- May 28, 2017:
-  - Using superagent
-
 
